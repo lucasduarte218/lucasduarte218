@@ -5,7 +5,9 @@
 - 📫 How to reach me : 
 
   https://www.linkedin.com/in/lucasduarte218/
+  
   https://www.instagram.com/lucasduarte218/
+  
   https://github.com/lucasduarte218
   
   lucasduarte@alu.ufc.br
