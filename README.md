@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lucasduarte218
 - 👀 I’m interested in Mobile developer with focus in Flutter.
-- 🌱 I’m currently learning Flutter.
+- 🌱 I’m currently learning Dev Mobile.
 - 💞️ I’m looking to collaborate on Mobile projects.
 - 📫 How to reach me : 
 
