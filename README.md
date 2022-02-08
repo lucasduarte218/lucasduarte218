@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @lucasduarte218
-- 👀 I’m interested in Mobile developer with focus in Flutter.
-- 🌱 I’m currently learning Dev Mobile.
-- 💞️ I’m looking to collaborate on Mobile projects.
-- 📫 How to reach me : 
+- 👋 Hi, I’m @lucasduarte218 , Oi eu sou Lucas Duarte.
+- 👀 I’m interested in Mobile developer with focus in Flutter. Estou interessado em desenvolvimento mobile com foco em Flutter.
+- 🌱 I’m currently learning Dev Mobile. Atulmente estou aprendendo Desenvolvimento mobile.
+- 💞️ I’m looking to collaborate on Mobile projects. estou procurando colaborar com projetos mobile.
+- 📫 How to reach me : como me contactar
 
   https://www.linkedin.com/in/lucasduarte218/
   
