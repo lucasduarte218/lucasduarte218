@@ -1,7 +1,6 @@
 - 👋 Oi eu sou Lucas Duarte, sou estudante de Engenharia de Software pela Universidade Federal do Ceará (UFC).
-- 👀 Estou interessado em desenvolvimento mobile com foco em Flutter.
-- 🌱 Atulmente estou aprendendo Desenvolvimento mobile.
-- 💞️ Estou procurando colaborar com projetos mobile.
+- 👀 Atualmente Trabalho como Desenvolvedor Back-End na Fitbank.
+- 🌱 Gosto muito de programar em Flutter como passa tempo.
 - 📫 Como me contactar:
 
   https://www.linkedin.com/in/lucasduarte218/
