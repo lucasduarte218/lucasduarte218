@@ -1,6 +1,6 @@
-- 👋 Oi eu sou Lucas Duarte, sou estudante de Engenharia de Software pela Universidade Federal do Ceará (UFC).
+- 👋 Oi eu sou Lucas Duarte, sou estudante de Engenharia de Software.
 - 👀 Atualmente Trabalho como TechLead no Fitbank.
-- 🌱 Gosto muito de programar em Flutter como passa tempo.
+- 🌱 No tempo livre tento ficar rico trabalhando em projetos próprios.
 - 📫 Vamos trocar ideia?
 
   https://www.linkedin.com/in/lucasduarte218/
