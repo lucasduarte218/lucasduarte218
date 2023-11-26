@@ -1,11 +1,8 @@
 - 👋 Oi eu sou Lucas Duarte, sou estudante de Engenharia de Software.
-- 👀 Atualmente Trabalho como TechLead no Fitbank.
+- 👀 Atualmente Trabalho como Arquiteto de Software no Fitbank.
 - 🌱 No tempo livre tento ficar rico trabalhando em projetos próprios.
-- 📫 Vamos trocar ideia?
 
   https://www.linkedin.com/in/lucasduarte218/
-  
-  https://www.instagram.com/lucasduarte218/
   
   https://github.com/lucasduarte218
   
