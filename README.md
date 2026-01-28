@@ -1,14 +1,13 @@
-- 👋 Oi eu sou Lucas Duarte, sou estudante de Engenharia de Software.
-- 👀 Atualmente Trabalho como Arquiteto de Software no Fitbank.
-- 🌱 No tempo livre tento ficar rico trabalhando em projetos próprios.
+- 👋 Oi eu sou Lucas Duarte, formado em Engenharia de Software.
+- 👀 Atualmente Trabalho como desenvolvedor Senior.
+- 🌱 quando possivel dou atenção a projetos próprios.
 
   https://www.linkedin.com/in/lucasduarte218/
   
   https://github.com/lucasduarte218
   
-  lucasduarte@alu.ufc.br
   lucasduarte218@gmail.com
-  lucasduarte218@yahoo.com.br
+
 ...
 
 <!---
